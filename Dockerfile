@@ -95,7 +95,7 @@ RUN \
     certbot-dns-cpanel \
     certbot-dns-desec \
     certbot-dns-digitalocean \
-    certbot-dns-directadmin \
+    certbot-dns-directadmin==1.0.3 \
     certbot-dns-dnsimple \
     certbot-dns-dnsmadeeasy \
     certbot-dns-dnspod \
